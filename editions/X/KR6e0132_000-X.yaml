@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0132/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴法相槃節
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1013.xml
+    old_id: X58n1013
+hash: sha256:af2a9d3cd8e8c2a93b006b1acf5825c088609ee5cf8bc577bc00303ec31944a8

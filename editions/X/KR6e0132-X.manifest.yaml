@@ -1,0 +1,558 @@
+canonical_identifier: bkk:krp/KR6e0132/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0132/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴法相槃節
+  identifiers:
+    krp: KR6e0132
+    cbeta: X58n1013
+    cbeta_old_id: X58n1013
+    authorityid: CA0001439
+    json_key: X1013
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X58/X58n1013.xml
+    old_id: X58n1013
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0132_000-X.yaml, hash: 'sha256:af2a9d3cd8e8c2a93b006b1acf5825c088609ee5cf8bc577bc00303ec31944a8'}
+  - {seq: 1, filename: KR6e0132_001-X.yaml, hash: 'sha256:951ec8eb6798c9a4b0b480d0deaf40f98d82278dc2547162f7437a0c53fea3fb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0132_000-X.markers.yaml, hash: 'sha256:4ca040e16a3afbf41f666b2f67520cc289a7dbc688bf8089cd9136ee96bc9be2'}
+  - {seq: 1, role: markers, filename: assets/KR6e0132_001-X.markers.yaml, hash: 'sha256:b428a6b72d69350b5ed6860f03528c8ad771ec57b49abf21664aa7c763382003'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 16765
+  label: 華嚴法相槃節并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-2
+    span:
+    - body
+    - 215
+    - 215
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-3
+    span:
+    - body
+    - 413
+    - 413
+  label: 一百法義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-4
+    span:
+    - body
+    - 553
+    - 553
+  label: 識自性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-5
+    span:
+    - body
+    - 773
+    - 773
+  label: 識相應
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-6
+    span:
+    - body
+    - 1011
+    - 1011
+  label: 別境有五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-7
+    span:
+    - body
+    - 1404
+    - 1404
+  label: 諸門料揀有十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-8
+    span:
+    - body
+    - 2067
+    - 2067
+  label: 諸門料揀有十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-9
+    span:
+    - body
+    - 4186
+    - 4186
+  label: 迷諦義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-10
+    span:
+    - body
+    - 4598
+    - 4598
+  label: 大乘伏斷義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-11
+    span:
+    - body
+    - 4796
+    - 4796
+  label: 小乘伏斷義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-12
+    span:
+    - body
+    - 5106
+    - 5106
+  label: 緣覺伏斷義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-13
+    span:
+    - body
+    - 5218
+    - 5218
+  label: 大乘資粮加行義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-14
+    span:
+    - body
+    - 5692
+    - 5692
+  label: 見道義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-15
+    span:
+    - body
+    - 5841
+    - 5841
+  label: 相見道緣非安立
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-16
+    span:
+    - body
+    - 5976
+    - 5976
+  label: 漸斷十四解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-17
+    span:
+    - body
+    - 6172
+    - 6172
+  label: 頓斷十一解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-18
+    span:
+    - body
+    - 6295
+    - 6295
+  label: 相見道安立諦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-19
+    span:
+    - body
+    - 6566
+    - 6566
+  label: 六現觀義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-20
+    span:
+    - body
+    - 6735
+    - 6735
+  label: 修道義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-21
+    span:
+    - body
+    - 6902
+    - 6902
+  label: 十地作釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-22
+    span:
+    - body
+    - 6996
+    - 6996
+  label: 十勝行義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-23
+    span:
+    - body
+    - 7203
+    - 7203
+  label: 十重障義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-24
+    span:
+    - body
+    - 7560
+    - 7560
+  label: 十真如義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-25
+    span:
+    - body
+    - 7671
+    - 7671
+  label: 轉依義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-26
+    span:
+    - body
+    - 7879
+    - 7879
+  label: 四涅槃義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-27
+    span:
+    - body
+    - 8084
+    - 8084
+  label: 四智義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-28
+    span:
+    - body
+    - 8323
+    - 8323
+  label: 三境義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-29
+    span:
+    - body
+    - 8826
+    - 8826
+  label: 假我法義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-30
+    span:
+    - body
+    - 8968
+    - 8968
+  label: 二十七賢聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-31
+    span:
+    - body
+    - 9423
+    - 9423
+  label: 表無表義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-32
+    span:
+    - body
+    - 9668
+    - 9668
+  label: 問答料揀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-33
+    span:
+    - body
+    - 10043
+    - 10043
+  label: 自共相義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-34
+    span:
+    - body
+    - 10261
+    - 10261
+  label: 種子六義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-35
+    span:
+    - body
+    - 10460
+    - 10460
+  label: 殘果義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-36
+    span:
+    - body
+    - 10711
+    - 10711
+  label: 能熏新熏義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-37
+    span:
+    - body
+    - 10937
+    - 10937
+  label: 四分義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-38
+    span:
+    - body
+    - 11334
+    - 11334
+  label: 迷󳢂義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-39
+    span:
+    - body
+    - 11711
+    - 11711
+  label: 四業義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-40
+    span:
+    - body
+    - 12022
+    - 12022
+  label: 滅盡定義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-41
+    span:
+    - body
+    - 12333
+    - 12333
+  label: 五果義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-42
+    span:
+    - body
+    - 12551
+    - 12551
+  label: 因緣義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-43
+    span:
+    - body
+    - 12738
+    - 12738
+  label: 等無間義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-44
+    span:
+    - body
+    - 13171
+    - 13171
+  label: 所緣緣義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-45
+    span:
+    - body
+    - 13487
+    - 13487
+  label: 增上緣義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-46
+    span:
+    - body
+    - 13834
+    - 13834
+  label: 十因十五依義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-47
+    span:
+    - body
+    - 14324
+    - 14324
+  label: 福非福義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-48
+    span:
+    - body
+    - 14556
+    - 14556
+  label: 八解二取義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-49
+    span:
+    - body
+    - 14943
+    - 14943
+  label: 名色支義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-50
+    span:
+    - body
+    - 15780
+    - 15780
+  label: 料揀十二有支
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-51
+    span:
+    - body
+    - 16169
+    - 16169
+  label: 漏俱義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0132_X_001-mulu-52
+    span:
+    - body
+    - 16340
+    - 16340
+  label: 二種生死義
+  type: mulu
+  level: 1
+hash: sha256:4e39a7358ccd37328270ed18c9088b20979519bd43e674baf14c15fa2fd5de33
