@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0132_000.yaml, hash: 'sha256:af2a9d3cd8e8c2a93b006b1acf5825c088609ee5cf8bc577bc00303ec31944a8'}
-  - {seq: 1, filename: KR6e0132_001.yaml, hash: 'sha256:ef70e0bf1a56721afd1e1e2105da10e64e11b3ba0c7237a9346e39f7491360ff'}
+  - {seq: 1, filename: KR6e0132_001.yaml, hash: 'sha256:951ec8eb6798c9a4b0b480d0deaf40f98d82278dc2547162f7437a0c53fea3fb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0132_001.markers.yaml, hash: 'sha256:1860b6f3b4b1ae0db0d194e501dd0a6b139461683a73ec91f3901f199f85610f'}
+  - {seq: 0, role: markers, filename: assets/KR6e0132_000.markers.yaml, hash: 'sha256:3f503407137b6441ede820b4095d7fc16e6c0d54fddac469db959ffbdc2ed170'}
+  - {seq: 1, role: markers, filename: assets/KR6e0132_001.markers.yaml, hash: 'sha256:420775e8ea153f6698a513d1eb1af7ab866c2965ad8fc23ec8a8302ca4cb786c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -556,7 +557,4 @@ table_of_contents:
   label: 二種生死義
   type: mulu
   level: 1
-hash: sha256:1928f9f860a721656d54a185aada87dc0714579c10bfcc0d1dc81b496391685f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7a873e7881829322ee7adb6cc1509eaffac3c4767d64022bde1c795b014053f5
